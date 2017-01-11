@@ -97,7 +97,7 @@ You start the Docker daemon with the command line. How you start the daemon affe
 
 ### Swarm service commands
 
-[1]: https://docs.docker.com/cli.md
+[1]: https://docs.docker.com/engine/reference/commandline/cli.md
 [2]: https://docs.docker.com/dockerd.md
 [3]: https://docs.docker.com/info.md
 [4]: https://docs.docker.com/inspect.md
